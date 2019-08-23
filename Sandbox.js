@@ -1,3 +1,15 @@
 //** this is the sandbox.**//
-console.log('Hello World');
+<!DOCTYPE html>
+  <html lang ="en">
+    <head></head>
 
+<title> html in a .js file? </title>
+<body>
+  <script>
+  console.log('Hello World')
+  </script>$
+  
+  
+  
+  </body>
+</html>
